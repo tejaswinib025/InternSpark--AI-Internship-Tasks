@@ -1,0 +1,7 @@
+,Before,After
+DPD (gender),0.011,0.015
+EOD (gender),0.0457,0.0723
+DPD (SeniorCitizen),0.281,0.2698
+EOD (SeniorCitizen),0.1269,0.1029
+Accuracy,0.7488,0.7424
+F1,0.6266,0.6199
